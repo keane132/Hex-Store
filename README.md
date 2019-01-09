@@ -1,3 +1,2 @@
 # Hex-Store
-E-Commerce Website
-By The Avengers
+E-Commerce Website by The Avengers
